@@ -1,0 +1,37 @@
+.body {
+  background-color: #3d3d3d;
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+}
+
+.main-container {
+  width: 600px;
+}
+
+.screen {
+  display: flex;
+  background-color: #858693;
+  justify-content: end;
+  padding: 2% 1%;
+}
+
+.cal {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  background-color: #e0e0e0;
+}
+
+.lastrow {
+  display: grid;
+  grid-template-columns: 50% 25% 25%;
+}
+
+.color {
+  background-color: #f39148;
+}
+
+.keypad {
+  padding: 5%;
+  border: 1px solid #d1d1d1;
+}
