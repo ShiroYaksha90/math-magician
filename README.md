@@ -96,7 +96,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Stephen Addae**
+👤 **Basim Aljazaeri**
 
 - GitHub: [@Basim-Aljazaeri](https://github.com/Shiroyaksha90)
 - Twitter: [@Basim_AlJazaeri](https://twitter.com/Basim_AlJazaeri)
