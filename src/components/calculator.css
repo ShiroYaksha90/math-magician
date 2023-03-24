@@ -42,11 +42,19 @@
 
 .quote-box {
   color: #e0e0e0;
-  border: 1px solid #d1d1d1;
   width: 500px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin: 2% 8%;
+  padding: 0 2%;
+}
+
+.quote-box > p {
+    margin: 1% 0;
+}
+
+.quote-box > h3 {
+    margin: 1% 0;
 }
