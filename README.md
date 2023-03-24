@@ -45,6 +45,7 @@ Math magicians is a website for all fans of mathematics
 ### Key Features <a name="key-features"></a>
 
 - Preform simple calculater operations
+- Fetch random qoutes from the external API: [API Ninjas](https://api-ninjas.com/api/quotes)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +109,8 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Fetch randome qoutes from API
+- Add scientfic calculator
+- Add CSS transtions for the calculator's buttons
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
