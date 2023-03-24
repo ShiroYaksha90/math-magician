@@ -35,8 +35,12 @@ const RandomQuotes = () => {
     <div className="quote-box">
       {quote.map((data) => (
         <>
-          <p key={quote.indexOf(data)}>{data.quote}</p>
-          <h3>{data.author}</h3>
+          <p key={quote.indexOf(data)}>
+            &ldquo;
+            {data.quote}
+            &bdquo;
+          </p>
+          <h4>{data.author}</h4>
         </>
       ))}
     </div>
