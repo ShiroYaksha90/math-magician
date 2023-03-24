@@ -37,16 +37,16 @@
 }
 
 .alert {
-    color: #e0e0e0;
+  color: #e0e0e0;
 }
 
 .quote-box {
-    color: #e0e0e0;
-    border: 1px solid #d1d1d1;
-    width: 500px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 2% 8%;
+  color: #e0e0e0;
+  border: 1px solid #d1d1d1;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2% 8%;
 }
