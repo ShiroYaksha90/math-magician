@@ -44,7 +44,7 @@ Math magicians is a website for all fans of mathematics
 
 ### Key Features <a name="key-features"></a>
 
-- N/A
+- Preform simple calculater operations
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- N/A
+- Fetch randome qoutes from API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,6 +142,6 @@ I would like to thank Microverse and all my coding partners.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
