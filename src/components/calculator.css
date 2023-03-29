@@ -23,7 +23,7 @@ ul {
   gap: 1em;
 }
 
-.nav-link{
+.nav-link {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -32,13 +32,13 @@ ul {
 }
 
 .home-container {
-   margin: 2em;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-   gap: 1em;
-   color: #e0e0e0;
+  margin: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  color: #e0e0e0;
 }
 
 .main-container {
