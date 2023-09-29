@@ -53,7 +53,7 @@ Math magicians is a website for all fans of mathematics
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming soon
+- [Live demo](https://basim-math-magician.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
